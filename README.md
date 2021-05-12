@@ -1,5 +1,6 @@
-*Tags: html, css*
+*Tags: Frontend, Web Development*
 
-**This is a simple city webpage with links, images, table**
-
-[Paris WebPage](https://cmn0705.github.io/Simple_Paris_Webpage/Index.htm)
+[**Simple Paris WebPage**](https://cmn0705.github.io/Simple_Paris_Webpage/Index.htm)
+**Description:**
+- Designed a simple city webpage with links, images, and tables
+- Tools used: *html, css*
